@@ -8,9 +8,8 @@
 - 📫 How to reach me **jtstout@protonmail.com**
 - ⚡ Fun fact: **I love Tabletop RPGs, Comic Books, Gaming, and I am a member of the LGBTQ+ Community**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/john-t-stout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-t-stout" height="30" width="40" /></a> <a href="https://discord.com/users/JaqStoot#7518" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+### Connect with me:
+<p align="left"> <a href="https://linkedin.com/in/john-t-stout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-t-stout" height="32" width="32" /> </a> <a href="https://discord.com/users/JaqStoot#7518" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
