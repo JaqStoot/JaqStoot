@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaqstoot&label=Profile%20views&color=0e75b6&style=flat" alt="jaqstoot" /> </p>
 
 - 🔭 I’m currently working on [learning snnTorch](https://github.com/JaqStoot/snntorch_tutorial)
-
 - 🌱 I’m currently learning **Software Engineering Concepts, Neural Networks, and Python**
-
 - 📫 How to reach me **jtstout@protonmail.com**
-
 - ⚡ Fun fact **I love Tabletop RPGs, Comic Books, Gaming, and am a member of the LGBTQ+ Community**
 
 <h3 align="left">Connect with me:</h3>
