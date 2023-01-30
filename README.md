@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [learning snnTorch](https://github.com/JaqStoot/snntorch_tutorial)
 - 🌱 I’m currently learning **Software Engineering Concepts, Neural Networks, and Python**
 - 📫 How to reach me **jtstout@protonmail.com**
-- ⚡ Fun fact **I love Tabletop RPGs, Comic Books, Gaming, and am a member of the LGBTQ+ Community**
+- ⚡ **I love Tabletop RPGs, Comic Books, Gaming, and am a member of the LGBTQ+ Community**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
