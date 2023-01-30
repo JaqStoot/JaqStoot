@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jack Stout</h1>
-<h3 align="center">A passionate Software Engineer from St. Louis, Missouri, USA, pursuing an undergraduate degree in Computer Science</h3>
+<h1 align="left">Hi there 👋, I'm Jack Stout!</h1>
+<h3 align="left">A passionate Software Engineer from St. Louis, Missouri, USA, pursuing an undergraduate degree in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaqstoot&label=Profile%20views&color=0e75b6&style=flat" alt="jaqstoot" /> </p>
 
