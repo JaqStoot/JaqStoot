@@ -9,7 +9,7 @@ I am a passionate Software Engineer from St. Louis, Missouri, USA, pursuing an u
 - 🌱 I’m currently learning **Software Engineering Concepts, Neural Networks, and Python**
 - 📫 How to reach me **jtstout@protonmail.com**
 - ⚡ Fun fact: **I love Tabletop RPGs, Comic Books, Gaming, and I am a member of the LGBTQ+ Community**
-- 📝 Check out my Website at [www.jstout.dev](https://www.jstout.dev/)
+- 📝 Check out my website at [www.jstout.dev](https://www.jstout.dev/)
 
 ### Connect with me:
 
