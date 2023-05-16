@@ -2,7 +2,7 @@ Hi there 👋, I'm Jack Stout!
 =============================
 Computer Science Student, Backend Software Engineer
 -----------------------------
-I am a passionate Software Engineer from St. Louis, Missouri, USA, pursuing an undergraduate degree in Computer Science. I specialize in backend programming, but I am working on delving into all other concepts of Software Engineering.
+I am a passionate Software Engineer from St. Louis, Missouri, USA, with a Bachelor's in Science from Southeast Missouri State University. I specialize in backend programming, but I am working on delving into all other concepts of Software Engineering.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaqstoot&label=Profile%20views&color=0e75b6&style=flat" alt="jaqstoot" /> </p>
 
 - 🔭 I’m currently working on [learning snnTorch](https://github.com/JaqStoot/snntorch_tutorial)
