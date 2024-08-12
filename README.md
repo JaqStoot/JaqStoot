@@ -1,13 +1,12 @@
 Hi there 👋, I'm Jack Stout!
 =============================
-Computer Science Student, Backend Software Engineer
+Software Engineer | Java Developer
 -----------------------------
 I am a passionate Software Engineer from St. Louis, Missouri, USA, with a Bachelor's in Science from Southeast Missouri State University. I specialize in backend programming, but I am working on delving into all other concepts of Software Engineering.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaqstoot&label=Profile%20views&color=0e75b6&style=flat" alt="jaqstoot" /> </p>
 
 - 🔭 I’m currently working on [learning Spring](https://spring.io/)
 - 🌱 I’m currently learning **Software Engineering Concepts and Java Frameworks**
-- 📫 How to reach me **jtstout@protonmail.com**
 - ⚡ Fun fact: **I love Tabletop RPGs, Comic Books, Gaming, and I am a member of the LGBTQ+ Community**
 - 📝 Check out my website at [www.jstout.dev](https://www.jstout.dev/)
 
